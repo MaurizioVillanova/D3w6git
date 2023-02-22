@@ -1,0 +1,9 @@
+git init
+ho portato il https://github.com/MaurizioVillanova/D3w6git.git nel mio terminale 
+git branch b1 
+git outcheck b1 per applicare le modifiche al progetto sul merge
+git add .
+git commit -m 'testo'
+git outcheck per tornare sul main
+git merge b1 per apportare le modifiche fatte dal b1
+git branch -D b1 per cancellare il branch
